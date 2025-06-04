@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  transition: background-color 2s ease, color 2s ease;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+video {
+  display: block;
+  margin: 20px auto;
+  border: 5px solid #444;
+  border-radius: 10px;
+}
+
+/* Emotion-specific themes */
+.happy {
+  background-color: #fffacd; /* light yellow */
+  color: #ff8c00; /* dark orange */
+  font-size: 18px;
+}
+
+.happy h1 {
+  font-family: 'Comic Sans MS', cursive;
+}
+
+.sad {
+  background-color: #add8e6; /* light blue */
+  color: #000080; /* navy */
+  font-size: 16px;
+}
+
+.sad h1 {
+  font-style: italic;
+}
+
+.neutral {
+  background-color: #f0f0f0;
+  color: #333;
+  font-size: 17px;
+}
+
+#emotion-display {
+  font-size: 24px;
+  margin-top: 20px;
+  text-align: center;
+  transition: opacity 1s ease-in-out;
+}
+
+/* Optional: Fade effect when switching emotion display */
+.fade {
+  opacity: 0.3;
+  transition: opacity 1s ease-in-out;
+}

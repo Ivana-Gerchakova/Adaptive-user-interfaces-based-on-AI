@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emotion UI</title>
+
+  <!-- face-api.js CDN -->
+  <script defer src="https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/dist/face-api.min.js"></script>
+
+  <!-- Custom JS -->
+  <script defer src="script.js"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Камера -->
+  <video id="video" width="720" height="560" autoplay muted></video>
+
+  <!-- Приказ на емоција -->
+  <div id="emotion-display">
+    Emotion: <span id="emotion-text">Neutral 😐</span>
+  </div>
+
+  <!-- Музика -->
+  <audio id="bg-music" loop></audio>
+</body>
+</html>
