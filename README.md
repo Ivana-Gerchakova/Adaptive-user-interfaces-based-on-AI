@@ -18,11 +18,6 @@ They are loaded at runtime via CDN from the official `face-api.js` repository:
 
 👉 [https://github.com/justadudewhohacks/face-api.js-models](https://github.com/justadudewhohacks/face-api.js-models)
 
-Or directly via:
-
-```js
-https://cdn.jsdelivr.net/npm/@vladmandic/face-api/model/
-
 
 ## Technologies used
 - HTML, CSS, JavaScript
