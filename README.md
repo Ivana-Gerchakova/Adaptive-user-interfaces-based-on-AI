@@ -8,6 +8,7 @@ This repository contains the final presentation for the project:
 - 🎥 [Demo Video – Adaptive User Interfaces Based on AI](Demo%20video.mp4)
 - 📄 [Project Presentation – Adaptive User Interfaces Based on AI (PPTX)](ADAPTIVE%20USER%20INTERFACES%20BASED%20ON%20AI.pptx)
 - 🖼️ Interface Screenshot:
+  
   ![Screenshot](Untitled.png)
 
 ## Model Files
