@@ -1,4 +1,4 @@
-# Emotion-Based Adaptive UI
+# Emotion-Based Adaptive UI 
 
 This repository contains the final presentation for the project:
 **"Emotion-Based Adaptive User Interface"**, created as part of the subject: *Advanced Interactive Technologies*.
